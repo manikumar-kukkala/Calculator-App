@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="sub">-</string>
+    <string name="mc">Mc</string>
+    <string name="ac">AC</string>
+    <string name="seven">7</string>
+    <string name="four">4</string>
+    <string name="one">1</string>
+    <string name="percent">%</string>
+    <string name="mplus">M+</string>
+    <string name="back"><![CDATA[<---]]></string>
+    <string name="eight">8</string>
+    <string name="five">5</string>
+    <string name="two">2</string>
+    <string name="zero">0</string>
+    <string name="m_sub">M-</string>
+    <string name="plus_sub">+/-</string>
+    <string name="nine">9</string>
+    <string name="six">6</string>
+    <string name="three">3</string>
+    <string name="dot">.</string>
+    <string name="divide">/</string>
+    <string name="plus">+</string>
+    <string name="equal_to">=</string>
+    <string name="mr">Mr</string>
+    <string name="calculator">Calculator</string>
+    <string name="settings">settings</string>
+    <string name="history">history</string>
+    <string name="exchange">exchange</string>
+    <string name="button_sound">button sound</string>
+    <string name="z_00">00</string>
+    <string name="num">num</string>
+    <string name="num1">num</string>
+    <string name="textview">TextView</string>
+    <string name="textview1">TextView</string>
+    <string name="name">Name</string>
+    <string name="search">search</string>
+    <string name="currency_value">currency value</string>
+    <string name="currency_value2">currency value</string>
+</resources>
